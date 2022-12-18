@@ -1,0 +1,1 @@
+This is a quick project from the Odin Project that contains links to some recipes. Very basic project and nothing special.
